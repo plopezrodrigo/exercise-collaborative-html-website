@@ -1,3 +1,31 @@
 body{
     background: #BDBDBD;
 }
+.card-text1{
+    line-height: 20px;
+    font-size: 22px;
+}
+.card-title{
+    color: rgb(5, 131, 170);
+    font-size: 25px;
+}
+.card-text{
+    font-size: 14px;
+    line-height: 16px;
+}
+.form{
+    background-color: #e7e5e5;
+    padding: 15px;
+    border-radius: 5px;
+}
+.form-label{
+    font-weight: bold;
+}
+.form{
+    justify-content: center;
+}
+
+
+
+
+
