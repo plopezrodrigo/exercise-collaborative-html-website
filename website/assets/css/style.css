@@ -1,6 +1,15 @@
 body{
     background: #BDBDBD;
 }
+.col-12-Portfolio{
+    padding-top: 100px;
+}
+.col-12-contact{
+    padding-top: 100px;
+}
+.col-12-services{
+    padding-top: 100px;
+}
 .card-text1{
     line-height: 20px;
     font-size: 22px;
@@ -18,14 +27,32 @@ body{
     padding: 15px;
     border-radius: 5px;
 }
+.abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 10vh;
+  }
 .form-label{
     font-weight: bold;
 }
-.form{
-    justify-content: center;
+.card-title{
+    color: black;
+    display: inline;
+    font-weight: bold;
+    font-size: 35px;
 }
-
-
-
-
+.cool{
+    display: inline;
+    font-size: larger;
+    color: grey;
+    font-weight: bold;
+    font-size: 35px;
+}
+.card-text{
+    font-size: 20px;
+}
+.img-fluid-rounded-start{
+    width: 300px;
+}
 
