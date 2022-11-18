@@ -1,6 +1,17 @@
 body{
     background: #BDBDBD;
 }
+
+.tagline{
+    position: relative;
+}
+.tagline div{
+    position: absolute;
+    margin-top: -32%;
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+}
+
 .col-12-Portfolio{
     padding-top: 100px;
 }
