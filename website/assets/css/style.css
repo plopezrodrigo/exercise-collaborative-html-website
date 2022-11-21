@@ -1,6 +1,6 @@
-body{
-    background: #BDBDBD;
-}
+
+    /* background: #BDBDBD; */
+
 
 .tagline{
     position: relative;
@@ -36,17 +36,18 @@ body{
 .form{
     background-color: #e7e5e5;
     padding: 15px;
+    padding-left: 10%;
     border-radius: 5px;
+    width:70%;
 }
 .abs-center {
     display: flex;
     align-items: center;
     justify-content: center;
     min-height: 10vh;
+    width: 100%;
   }
-.form-label{
-    font-weight: bold;
-}
+
 .card-title{
     color: black;
     display: inline;
