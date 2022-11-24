@@ -11,7 +11,6 @@
     padding-left: 0.5%;
     padding-right: 0.5%;
 }
-
 .col-12-Portfolio{
     padding-top: 100px;
 }
@@ -21,16 +20,19 @@
 .col-12-services{
     padding-top: 100px;
 }
+#card{
+    border: none;
+}
 .card-text1{
-    line-height: 20px;
+    line-height: 30px;
     font-size: 22px;
 }
-.card-title{
+#card-title{
     color: rgb(5, 131, 170);
     font-size: 25px;
 }
-.card-text{
-    font-size: 14px;
+#card-text{
+    font-size: 16px;
     line-height: 16px;
 }
 .form{
@@ -63,8 +65,16 @@
 }
 .card-text{
     font-size: 20px;
+    line-height: 30px;
 }
 .img-fluid-rounded-start{
     width: 300px;
+}
+#message{
+    height: 100px;
+    margin-bottom: 20px;
+}
+#name{
+    margin-bottom: 20px;
 }
 
